@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5eca6ab00357fe2e9453d3b3"
+  },
+  "CompanyName": "asad",
+  "ContactName": "ada",
+  "Address": "sdas",
+  "City": "sda",
+  "Region": "dasdsa",
+  "PostalCode": "sda",
+  "Country": "qwerty",
+  "Phone": "+306975679120"
+},{
+  "_id": {
+    "$oid": "5eca6afa0357fe2e9453d3b4"
+  },
+  "CompanyName": "Unix",
+  "ContactName": "ASDF",
+  "Address": "ASDGG",
+  "City": "Rome",
+  "Region": "Florence_1",
+  "PostalCode": "12345",
+  "Country": "Italy",
+  "Phone": "+4567876895785"
+},{
+  "_id": {
+    "$oid": "5eca6bba0357fe2e9453d3b5"
+  },
+  "CompanyName": "fdsaf",
+  "ContactName": null,
+  "Address": null,
+  "City": null,
+  "Region": null,
+  "PostalCode": null,
+  "Country": null,
+  "Phone": null
+},{
+  "_id": {
+    "$oid": "5eca6bf30357fe2e9453d3b6"
+  },
+  "CompanyName": "fdsaf",
+  "ContactName": "fdsg",
+  "Address": "gsdgsd",
+  "City": "gsdgs",
+  "Region": "hgfhjkuy;'i",
+  "PostalCode": null,
+  "Country": null,
+  "Phone": null
+}]
